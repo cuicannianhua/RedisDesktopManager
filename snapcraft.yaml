@@ -1,4 +1,4 @@
-name: redis-desktop-manager
+name: myredis-desktop-manager
 version: 1
 summary: Redis Desktop Manager
 description: Cross-platform GUI management tool for Redis
